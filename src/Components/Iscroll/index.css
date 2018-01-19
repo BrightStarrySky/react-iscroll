@@ -1,7 +1,8 @@
 #wrapper{
-    height:2rem;
+    height:500px;
     width:100%;
     overflow:hidden;
     position:relative;
-    /* touch-action: none; */
+    
 }
+/* 与preventDefault一同使用 */
